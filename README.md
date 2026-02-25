@@ -20,7 +20,8 @@ Tecnologias que estou estudando ❤️
      <img align="center" alt="MYSql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
      <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
      <img align="center" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
-          
+     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+     
 
 
  
