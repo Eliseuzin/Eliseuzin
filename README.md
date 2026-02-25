@@ -1,4 +1,6 @@
 
+
+
 Ola! Eu sou Eliseu Matos 👋🏼
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/BuildingDreams.i9?locale=pt_BR)
@@ -6,9 +8,10 @@ Ola! Eu sou Eliseu Matos 👋🏼
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseumatossilva/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@buildingdreamsi9)
 
-![Eliseu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliseuzin&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliseuzin)](https://github.com/anuraghazra/github-readme-stats)
+![Eliseuzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliseuzin&show_icons=true&theme=radical)
+
+
 
 
 Tecnologias que estou estudando ❤️
@@ -18,10 +21,9 @@ Tecnologias que estou estudando ❤️
      <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
      <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
      <img align="center" alt="MYSql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-     <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-     <img align="center" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
-     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
-     
+     <!-- <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+     <img align="center" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" /> -->
+          
 
 
  
